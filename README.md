@@ -75,3 +75,12 @@ The power of using the DOM, is when we respond to events. Somtimes these are bro
 - mouse click
 - input text
 - keyboard input 
+
+---
+
+## Links from class
+
+- [NodeList and HTMLCollection](https://stackoverflow.com/questions/15763358/difference-between-htmlcollection-nodelists-and-arrays-of-objects?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [Fill Murray](https://www.fillmurray.com/)
+- [Character Encoding](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
